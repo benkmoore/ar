@@ -9867,6 +9867,10 @@ a.text-dark:hover, a.text-dark:focus {
   color: #6c757d !important;
 }
 
+.header-pts {
+  margin: 1rem 2rem;
+}
+
 .text-black-50 {
   color: rgba(0, 0, 0, 0.5) !important;
 }
@@ -10019,7 +10023,7 @@ section#about {
   margin-bottom: 2.5rem;
 }
 .page-section h3.section-subheading {
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: 400;
   font-style: italic;
   font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
